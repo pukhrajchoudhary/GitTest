@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac4a560_353ba339",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006958
+      },
+      "writtenOn": "2015-12-09T10:05:46Z",
+      "side": 1,
+      "message": "Pukhraj 2",
+      "revId": "47195500feccc347d769363373bd3a7e018139e9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac4a560_554adfc5",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1006958
+      },
+      "writtenOn": "2015-12-09T10:05:46Z",
+      "side": 1,
+      "message": "Bipin 1",
+      "range": {
+        "startLine": 2,
+        "startChar": 14,
+        "endLine": 2,
+        "endChar": 15
+      },
+      "revId": "47195500feccc347d769363373bd3a7e018139e9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
