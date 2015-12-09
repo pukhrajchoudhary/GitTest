@@ -1,1 +1,1 @@
-# GitTest - Dummy update 1.1
+# GitTest - Dummy update 1.2
