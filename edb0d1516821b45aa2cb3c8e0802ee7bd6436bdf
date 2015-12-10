@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac4a560_149b0473",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006958
+      },
+      "writtenOn": "2015-12-10T13:14:05Z",
+      "side": 1,
+      "message": "Pukhraj verify please.",
+      "range": {
+        "startLine": 3,
+        "startChar": 13,
+        "endLine": 3,
+        "endChar": 17
+      },
+      "revId": "edb0d1516821b45aa2cb3c8e0802ee7bd6436bdf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
